@@ -1,0 +1,7 @@
+:root {
+  background-color: rgb(9 9 11 / var(--tw-bg-opacity, 1))
+}
+
+input:hover{
+  border: 1 solid blue;
+}
